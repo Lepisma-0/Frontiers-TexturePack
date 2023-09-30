@@ -1,0 +1,7 @@
+name: "frontiers-tp",
+displayName: "[accent]Frontiers Texture Pack",
+author: "Lepisma",
+version: "v1",
+description: "Changes some sprites for the resprites used in [accent]Mindustry Frontiers"
+minGameVersion: 136,
+hidden: false
